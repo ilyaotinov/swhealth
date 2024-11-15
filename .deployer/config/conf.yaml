@@ -1,0 +1,7 @@
+telegram:
+  token: 7911052267:AAHxlg6YXC9xWQlfGJhKR9p62scIBXIS6HA
+  chat_id: -4025935219
+app:
+  log_path: log.txt
+service:
+  url: http://45.130.213.220:9843/health
